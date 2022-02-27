@@ -1,0 +1,15 @@
+G:\Git\Contact\Contact\bin\Debug\Contact.exe.config
+G:\Git\Contact\Contact\bin\Debug\Contact.exe
+G:\Git\Contact\Contact\bin\Debug\Contact.pdb
+G:\Git\Contact\Contact\obj\Debug\Contact.csprojResolveAssemblyReference.cache
+G:\Git\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+G:\Git\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.Cache
+G:\Git\Contact\Contact\obj\Debug\Contact.exe
+G:\Git\Contact\Contact\obj\Debug\Contact.pdb
+G:\Git\Contact\Contact\bin\Debug\contact.mdf
+G:\Git\Contact\Contact\bin\Debug\contact_log.ldf
+G:\Git\Contact\Contact\obj\Debug\Contact.Contact.resources
+G:\Git\Contact\Contact\bin\Debug\Contact.exe.manifest
+G:\Git\Contact\Contact\bin\Debug\Contact.application
+G:\Git\Contact\Contact\obj\Debug\Contact.exe.manifest
+G:\Git\Contact\Contact\obj\Debug\Contact.application

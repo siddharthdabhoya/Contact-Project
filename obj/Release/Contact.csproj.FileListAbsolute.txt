@@ -1,0 +1,1 @@
+G:\Git\Contact\Contact\bin\Release\Contact.exe.config
